@@ -26,6 +26,6 @@ Here’s a table formatted for a GitHub post that includes the video titles and 
 | Kaggle Learn                | Python, SQL, Machine Learning, Data Visualization tutorials         | [Click Me](https://www.kaggle.com/learn)                            |
 | Duolingo                    | English, Spanish, Japanese, French – beginner to intermediate       | [Click Me](https://www.duolingo.com/)                               |
 | TED‑Ed                      | Curated talks, lesson plans, discussion guides                      | [Click Me](https://ed.ted.com/)                                     |
-| Skill India Digital         | Indian e‑learning platform across many domains                      | [Click Me](https://www.skillindiadigital.gov.in/home)       |
+| Skill India Digital         | Indian e‑learning platform across many domains                      | [Click Me](https://www.skillindiadigital.gov.in/home)               |
 | Incognito Engineer Academy  | Cybersecurity, OSINT, penetration testing courses                  | [Click Me](https://github.com/IncognitoEngineer369)                |
 
