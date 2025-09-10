@@ -17,3 +17,15 @@ Here’s a table formatted for a GitHub post that includes the video titles and 
 | Power BI                            | [Watch Here](https://youtu.be/bQ-HTp-tx40?si=WIJt-tb_j2G4zcuF)                                 |
 | Digital Marketing with AI           | [Watch Here](https://youtu.be/kunkYTKFNtI?si=qtiTbA8qmbM4DPYL)                                 |
 
+# Top website to learn FREE!!
+| Name of Sites | Features | URL |
+|-------|----------|-----|
+| Reedsy Learning | Short courses, writing prompts, industry‑expert interviews	| [Click Me]([url](https://reedsy.com/learning/courses)) |
+| Freecodecamp | Interactive coding challenges, certifications, community forums | [Click Me]([url](https://www.freecodecamp.org/)) |
+| MindLuster | 300,000 Online Courses and MOOCs With Free Certificates in one place | [Click me]([url](https://www.mindluster.com/)) |
+| Kaggle Learn | Dedicated to Python | [Click Me](https://www.kaggle.com/learn) |
+| Duolingo | English, Spanish, Japanese, French and language learning platform (beginner to intermediate) | [Click Me]([url](https://www.duolingo.com/)) |
+| TED‑Ed | Curated talks, lesson plans, discussion guides | [Click Me]([url](https://ed.ted.com/)) |
+| Skill India Digital | India E-learning Platform in various domain | [Click Me]([url](https://www.skillindiadigital.gov.in/home)) |
+| IEA (Incognito Engineer Academy) | Cyber Security, OSINT, Penetration testing and others | [Click Me](https://github.com/IncognitoEngineer369) |
+
