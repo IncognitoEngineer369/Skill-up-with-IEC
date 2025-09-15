@@ -28,4 +28,5 @@ Here’s a table formatted for a GitHub post that includes the video titles and 
 | TED‑Ed                      | Curated talks, lesson plans, discussion guides                      | [Click Me](https://ed.ted.com/)                                     |
 | Skill India Digital         | Indian e‑learning platform across many domains                      | [Click Me](https://www.skillindiadigital.gov.in/home)               |
 | Incognito Engineer Academy  | Cybersecurity, OSINT, penetration testing courses                  | [Click Me](https://github.com/IncognitoEngineer369)                |
+| Class Central               | Computer Science, Business, Humanities, Data Science, Personal Development | [Click Me](https://www.classcentral.com/report/)            |
 
